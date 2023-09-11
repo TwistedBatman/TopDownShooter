@@ -1,11 +1,9 @@
 # 2D Top Down Shooter
 
-## General Info
 
-Top Down Shooter is a 2D game with top down view developed in Unity. The purpose of the game is for the player to survive for as long as they can. It’s an endless game with enemies spawning in waves. Each wave is more difficult than the previous and at certain waves a stronger enemy spawns (boss) and it’s required to be defeated in order to progress further. During the playthrough certain buffs appear that help the player. Every wave there is a chance for coins to spawn, the player can collect them and use them in the in-game store to purchase skins that change the character’s appearance.
-Although it's a 2D game some elements like the player and the enemies are 3D objects.
 
 **Table of Contents**
+- [General Info](#General-Info)
 - [Scenes](#Scenes)
   - [Main Menu](#MaiMenu)
   - [Credits Scene](#CreditsScene) 
@@ -19,7 +17,11 @@ Although it's a 2D game some elements like the player and the enemies are 3D obj
   - [Weapons and Grenades](#Weapons-and-Grenades)
   - [Object Spawner](#Object-Spawner)
   - [Screen Shake](#Screen-Shake)
+  - 
+## General Info
 
+Top Down Shooter is a 2D game with top down view developed in Unity. The purpose of the game is for the player to survive for as long as they can. It’s an endless game with enemies spawning in waves. Each wave is more difficult than the previous and at certain waves a stronger enemy spawns (boss) and it’s required to be defeated in order to progress further. During the playthrough certain buffs appear that help the player. Every wave there is a chance for coins to spawn, the player can collect them and use them in the in-game store to purchase skins that change the character’s appearance.
+Although it's a 2D game some elements like the player and the enemies are 3D objects.
 ## Scenes
 
 There are 4 scenes in the game.
