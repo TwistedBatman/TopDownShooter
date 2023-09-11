@@ -7,18 +7,18 @@ Although it's a 2D game some elements like the player and the enemies are 3D obj
 
 **Table of Contents**
 - [Scenes](#Scenes)
- - [Main Menu](#MaiMenu)
- - [Credits Scene](#CreditsScene) 
- - [Game](#Game)
+- -  - [Main Menu](#MaiMenu)
+- -  - [Credits Scene](#CreditsScene) 
+- -  - [Game](#Game)
  - [Death Menu](#DeathMenu)
-- [Main Scripts](#Main Scripts)
- - [Enemy Objects](#Enemy Objects)
- - [Item and Audio](#Item and Audio)
- - [Menus and Systems](#Menus and Systems)
+- [Main Scripts](#Main-Scripts)
+ - [Enemy Objects](#Enemy-Objects)
+ - [Item and Audio](#Item-and-Audio)
+ - [Menus and Systems](#Menus-and-Systems)
  - [Player](#Player)
- - [Weapons and Grenades](#Weapons and Grenades)
- - [Object Spawner](#Object Spawner)
- - [Screen Shake](#)
+ - [Weapons and Grenades](#Weapons-and-Grenades)
+ - [Object Spawner](#Object-Spawner)
+ - [Screen Shake](#Screen-Shake)
 
 ## Scenes
 
