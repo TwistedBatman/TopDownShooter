@@ -7,7 +7,6 @@ Although it's a 2D game some elements like the player and the enemies are 3D obj
 
 **Table of Contents**
 - [Scenes](#Scenes)
-- [Main Scripts](#Main Scripts)
  - [Main Menu](#MaiMenu)
  - [Credits Scene](#CreditsScene) 
  - [Game](#Game)
