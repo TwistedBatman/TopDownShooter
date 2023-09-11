@@ -41,7 +41,8 @@ In the settings menu the user has different options to change the graphics and t
 #### CreditsScene
 It shows an animated text with credits.
 
-#### Game: The main scene where the user can play the game. The user can leave this scene either by pressing Escape (esc) and accessing a menu or if their character loses all its health therefore losing.
+#### Game 
+The main scene where the user can play the game. The user can leave this scene either by pressing Escape (esc) and accessing a menu or if their character loses all its health therefore losing. 
 ΒΙΝΤΕΟ
 
 #### DeathMenu
