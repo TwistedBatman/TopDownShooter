@@ -42,11 +42,13 @@ In the settings menu the user has different options to change the graphics and t
 It shows an animated text with credits.
 
 #### Game 
-The main scene where the user can play the game. The user can leave this scene either by pressing Escape (esc) and accessing a menu or if their character loses all its health therefore losing. 
+The main scene where the user can play the game. The user can leave this scene either by pressing Escape (esc) and accessing a menu or if their character loses all its health therefore losing.
+
 ΒΙΝΤΕΟ
 
 #### DeathMenu
 This scene loads when the player loses by having their health reach 0. It gives the user the option to restart go back to the menu or exit the game. It also shows the current wave and score the player reached this round.
+
 ΕΙΚΟΝΑ
 
 ## Main Scripts
