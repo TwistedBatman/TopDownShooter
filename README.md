@@ -66,9 +66,9 @@ This scene loads when the player loses by having their health reach 0. It gives 
 
 #### Player
 > - **HealthBar:** Visually shows and keeps track of the player health.
-- **PlayerController:** Receives input from the user and controls the player character.
-- **PlayerHealthManager:** Manages the player’s health removing or adding depending on the situation. It also gives a hit effect to the character by changing the color.
-- **Skins:** Manages the in-game store by saving data on which skins the players has bought. It also allows the player to change the skin to one he has already bought.
+> - **PlayerController:** Receives input from the user and controls the player character.
+> - **PlayerHealthManager:** Manages the player’s health removing or adding depending on the situation. It also gives a hit effect to the character by changing the color.
+> - **Skins:** Manages the in-game store by saving data on which skins the players has bought. It also allows the player to change the skin to one he has already bought.
 
 #### Weapons and Grenades
 - **BulletController:** Exists in each instance of the created bullets and it destroys the object when it hits an enemy or after a specific time.
