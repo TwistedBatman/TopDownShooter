@@ -25,17 +25,23 @@ Although it's a 2D game some elements like the player and the enemies are 3D obj
 There are 4 scenes in the game.
 #### MainMenu
 It's the first scene that loads when the application is launched. It contains buttons with options to start the game (Play), enter the in-game store (Shop), open the Settings menu, watch the Credits, enter a code to redeem a one-time reward or exit the game.
+
 ΕΙΚΟΝΑ
+
 **In-game store**
+
 By playing the user can gather coins, they can then spend those coins in the shop to buy skins.
+
 ΕΙΚΟΝΑ
+
 **Settings Menu**
 In the settings menu the user has different options to change the graphics and the volume.
 ΕΙΚΟΝΑ
 
 #### CreditsScene
 It shows an animated text with credits.
-Game: The main scene where the user can play the game. The user can leave this scene either by pressing Escape (esc) and accessing a menu or if their character loses all its health therefore losing.
+
+#### Game: The main scene where the user can play the game. The user can leave this scene either by pressing Escape (esc) and accessing a menu or if their character loses all its health therefore losing.
 ΒΙΝΤΕΟ
 
 #### DeathMenu
