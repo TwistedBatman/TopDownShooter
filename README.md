@@ -26,7 +26,7 @@ Although it's a 2D game some elements like the player and the enemies are 3D obj
 ## Scenes
 
 There are 4 scenes in the game.
-#### MainMenu
+### MainMenu
 
 It's the first scene that loads when the application is launched. It contains buttons with options to start the game (Play), enter the in-game store (Shop), open the Settings menu, watch the Credits, enter a code to redeem a one-time reward or exit the game.
 
