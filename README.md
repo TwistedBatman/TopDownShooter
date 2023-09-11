@@ -1,8 +1,8 @@
-# 2D Top Down Shooter
+# Top Down Shooter
 
 
 
-**Table of Contents**
+## Table of Contents
 - [General Info](#General-Info)
 - [Scenes](#Scenes)
   - [Main Menu](#MaiMenu)
