@@ -44,7 +44,7 @@ This scene loads when the player loses by having their health reach 0. It gives 
 
 ## Main Scripts
 
-A quick explanation of each script.
+A quick explanation of each script by category.
 #### Enemy Objects
 - **EnemyController**: Exists in each enemy and controls them, by moving them to the direction of the player.
 - **EnemyHealthManager:** Exists in each enemy and it contains their health.
