@@ -46,51 +46,35 @@ This scene loads when the player loses by having their health reach 0. It gives 
 
 #### Enemy Objects
 - **EnemyController**: Exists in each enemy and controls them, by moving them to the direction of the player.
-- 
 - **EnemyHealthManager:** Exists in each enemy and it contains their health.
-- 
 - **HurtPlayer:** Exists in a game object within the enemy and it damages the player when they collide.
 
 #### Item and Audio
-**AudioManager:** Controls the audio within the game.
-
-**Coins:** Manages the coins the player wins throughout the game.
-
-**DetectAndDestroyObjects:** Exists in each object spawned and it detects when the player collides with it in order to give them the corresponding buff.
-
-**ItemSpawner:** Spawns the corresponding item each time it’s called.
-
-**Sound:** Creates a slider the user can interact with to control the volume of the music.
+- **AudioManager:** Controls the audio within the game.
+- **Coins:** Manages the coins the player wins throughout the game.
+- **DetectAndDestroyObjects:** Exists in each object spawned and it detects when the player collides with it in order to give them the corresponding buff.
+- **ItemSpawner:** Spawns the corresponding item each time it’s called.
+- **Sound:** Creates a slider the user can interact with to control the volume of the music.
 
 #### Menus and Systems
-**Codes:** Implements a system where the user can enter a specific code and earn one-time rewards.
-**ExitCreditsScene:** Allows the player to leave from the credits scene when he presses Escape or after a specific time.
-
-**MainMenu:** Contains a variety of methods which are called from clicking buttons in order to change scenes.
-
-**PauseMenu:** It's called when the Escape button is pressed pausing the game and allowing the user to either leave or mute/unmute the volume.
-
-**SettingsMenu:** Provides the user with a variety of options to interact with, like changing the resolution or the volume.
-
-**WaveAndScore:** Show the score to the user and keeps track of the high score.
+- **Codes:** Implements a system where the user can enter a specific code and earn one-time rewards.
+- **ExitCreditsScene:** Allows the player to leave from the credits scene when he presses Escape or after a specific time.
+- **MainMenu:** Contains a variety of methods which are called from clicking buttons in order to change scenes.
+- **PauseMenu:** It's called when the Escape button is pressed pausing the game and allowing the user to either leave or mute/unmute the volume.
+- **SettingsMenu:** Provides the user with a variety of options to interact with, like changing the resolution or the volume.
+- **WaveAndScore:** Show the score to the user and keeps track of the high score.
 
 #### Player
-**HealthBar:** Visually shows and keeps track of the player health.
-
-**PlayerController:** Receives input from the user and controls the player character.
-
-**PlayerHealthManager:** Manages the player’s health removing or adding depending on the situation. It also gives a hit effect to the character by changing the color.
-
-**Skins:** Manages the in-game store by saving data on which skins the players has bought. It also allows the player to change the skin to one he has already bought.
+- **HealthBar:** Visually shows and keeps track of the player health.
+- **PlayerController:** Receives input from the user and controls the player character.
+- **PlayerHealthManager:** Manages the player’s health removing or adding depending on the situation. It also gives a hit effect to the character by changing the color.
+- **Skins:** Manages the in-game store by saving data on which skins the players has bought. It also allows the player to change the skin to one he has already bought.
 
 #### Weapons and Grenades
-**BulletController:** Exists in each instance of the created bullets and it destroys the object when it hits an enemy or after a specific time.
-
-**GrenadeAmmo:** Visually shows how many grenades the player has.
-
-**GrenadeController:** Controls the time, damage and radius of the explosion.
-
-**GunController:** Controls when to fire or throw a grenade.
+- **BulletController:** Exists in each instance of the created bullets and it destroys the object when it hits an enemy or after a specific time.
+- **GrenadeAmmo:** Visually shows how many grenades the player has.
+- **GrenadeController:** Controls the time, damage and radius of the explosion.
+- **GunController:** Controls when to fire or throw a grenade.
 
 #### Object Spawner
 **Spawner:** It controls how many enemies to spawn per wave, when to spawn a boss and when to spawn items.
