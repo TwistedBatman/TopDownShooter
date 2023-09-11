@@ -65,7 +65,7 @@ This scene loads when the player loses by having their health reach 0. It gives 
 - **WaveAndScore:** Show the score to the user and keeps track of the high score.
 
 #### Player
-- **HealthBar:** Visually shows and keeps track of the player health.
+> - **HealthBar:** Visually shows and keeps track of the player health.
 - **PlayerController:** Receives input from the user and controls the player character.
 - **PlayerHealthManager:** Manages the player’s health removing or adding depending on the situation. It also gives a hit effect to the character by changing the color.
 - **Skins:** Manages the in-game store by saving data on which skins the players has bought. It also allows the player to change the skin to one he has already bought.
@@ -77,7 +77,7 @@ This scene loads when the player loses by having their health reach 0. It gives 
 - **GunController:** Controls when to fire or throw a grenade.
 
 #### Object Spawner
-**Spawner:** It controls how many enemies to spawn per wave, when to spawn a boss and when to spawn items.
+- **Spawner:** It controls how many enemies to spawn per wave, when to spawn a boss and when to spawn items.
 
 #### Screen Shake
 There is also an imported asset from Unity Asset Store, containing 3 scripts, that controls the shaking of the camera.
