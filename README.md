@@ -1,5 +1,5 @@
 # 2D Top Down Shooter
----
+
 
 
 **Table of Contents**
@@ -19,12 +19,12 @@
   - [Screen Shake](#Screen-Shake)
   
 ## General Info
----
+
 Top Down Shooter is a 2D game with top down view developed in Unity. The purpose of the game is for the player to survive for as long as they can. It’s an endless game with enemies spawning in waves. Each wave is more difficult than the previous and at certain waves a stronger enemy spawns (boss) and it’s required to be defeated in order to progress further. During the playthrough certain buffs appear that help the player. Every wave there is a chance for coins to spawn, the player can collect them and use them in the in-game store to purchase skins that change the character’s appearance.
 Although it's a 2D game some elements like the player and the enemies are 3D objects.
 
 ## Scenes
----
+
 There are 4 scenes in the game.
 
 ## MainMenu
@@ -47,14 +47,14 @@ In the settings menu the user has different options to change the graphics and t
 
 It shows an animated text with credits.
 
-### Game
----
+## Game
+
 The main scene where the user can play the game. The user can leave this scene either by pressing Escape (esc) and accessing a menu or if their character loses all its health therefore losing.
 
 ΒΙΝΤΕΟ
 
-#### DeathMenu
-------------
+### DeathMenu
+
 This scene loads when the player loses by having their health reach 0. It gives the user the option to restart go back to the menu or exit the game. It also shows the current wave and score the player reached this round.
 
 ΕΙΚΟΝΑ
