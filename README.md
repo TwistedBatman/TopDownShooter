@@ -8,17 +8,17 @@ Although it's a 2D game some elements like the player and the enemies are 3D obj
 **Table of Contents**
 - [Scenes](#Scenes)
   - [Main Menu](#MaiMenu)
- - [Credits Scene](#CreditsScene) 
- - [Game](#Game)
- - [Death Menu](#DeathMenu)
+  - [Credits Scene](#CreditsScene) 
+  - [Game](#Game)
+  - [Death Menu](#DeathMenu)
 - [Main Scripts](#Main-Scripts)
- - [Enemy Objects](#Enemy-Objects)
- - [Item and Audio](#Item-and-Audio)
- - [Menus and Systems](#Menus-and-Systems)
- - [Player](#Player)
- - [Weapons and Grenades](#Weapons-and-Grenades)
- - [Object Spawner](#Object-Spawner)
- - [Screen Shake](#Screen-Shake)
+  - [Enemy Objects](#Enemy-Objects)
+  - [Item and Audio](#Item-and-Audio)
+  - [Menus and Systems](#Menus-and-Systems)
+  - [Player](#Player)
+  - [Weapons and Grenades](#Weapons-and-Grenades)
+  - [Object Spawner](#Object-Spawner)
+  - [Screen Shake](#Screen-Shake)
 
 ## Scenes
 
@@ -68,6 +68,7 @@ This scene loads when the player loses by having their health reach 0. It gives 
 **HealthBar:** Visually shows and keeps track of the player health.
 **PlayerController:** Receives input from the user and controls the player character.
 **PlayerHealthManager:** Manages the player’s health removing or adding depending on the situation. It also gives a hit effect to the character by changing the color.
+
 **Skins:** Manages the in-game store by saving data on which skins the players has bought. It also allows the player to change the skin to one he has already bought.
 
 #### Weapons and Grenades
