@@ -27,6 +27,7 @@ Although it's a 2D game some elements like the player and the enemies are 3D obj
 
 There are 4 scenes in the game.
 #### MainMenu
+------------
 It's the first scene that loads when the application is launched. It contains buttons with options to start the game (Play), enter the in-game store (Shop), open the Settings menu, watch the Credits, enter a code to redeem a one-time reward or exit the game.
 
 ΕΙΚΟΝΑ
@@ -42,14 +43,17 @@ In the settings menu the user has different options to change the graphics and t
 ΕΙΚΟΝΑ
 
 #### CreditsScene
+------------
 It shows an animated text with credits.
 
-#### Game 
+#### Game
+------------
 The main scene where the user can play the game. The user can leave this scene either by pressing Escape (esc) and accessing a menu or if their character loses all its health therefore losing.
 
 ΒΙΝΤΕΟ
 
 #### DeathMenu
+------------
 This scene loads when the player loses by having their health reach 0. It gives the user the option to restart go back to the menu or exit the game. It also shows the current wave and score the player reached this round.
 
 ΕΙΚΟΝΑ
