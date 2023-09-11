@@ -40,6 +40,7 @@ By playing the user can gather coins, they can then spend those coins in the sho
 ΕΙΚΟΝΑ
 
 **Settings Menu**
+
 In the settings menu the user has different options to change the graphics and the volume.
 ΕΙΚΟΝΑ
 
@@ -53,7 +54,7 @@ The main scene where the user can play the game. The user can leave this scene e
 
 ΒΙΝΤΕΟ
 
-### DeathMenu
+## DeathMenu
 
 This scene loads when the player loses by having their health reach 0. It gives the user the option to restart go back to the menu or exit the game. It also shows the current wave and score the player reached this round.
 
