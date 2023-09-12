@@ -31,7 +31,8 @@ There are 4 scenes in the game.
 
 It's the first scene that loads when the application is launched. It contains buttons with options to start the game (Play), enter the in-game store (Shop), open the Settings menu, watch the Credits, enter a code to redeem a one-time reward or exit the game.
 
-ΕΙΚΟΝΑ
+![menu](https://github.com/TwistedBatman/TopDownShooter/assets/73825176/b3836912-7b91-4e09-9113-62374aa98c11)
+
 
 **In-game store**
 
@@ -41,7 +42,8 @@ By playing the user can gather coins, they can then spend those coins in the sho
 **Settings Menu**
 
 In the settings menu the user has different options to change the graphics and the volume.
-ΕΙΚΟΝΑ
+![Settings](https://github.com/TwistedBatman/TopDownShooter/assets/73825176/4b6daa93-d28e-4a57-a493-17d7e0ccef4a)
+
 
 ## CreditsScene
 
@@ -51,7 +53,11 @@ It shows an animated text with credits.
 
 The main scene where the user can play the game. The user can leave this scene either by pressing Escape (esc) and accessing a menu or if their character loses all its health therefore losing.
 
-ΒΙΝΤΕΟ
+
+
+https://github.com/TwistedBatman/TopDownShooter/assets/73825176/aaa93faf-4047-4400-b162-fb4f1bc66188
+
+
 
 ## DeathMenu
 
