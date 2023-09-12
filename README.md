@@ -63,7 +63,8 @@ https://github.com/TwistedBatman/TopDownShooter/assets/73825176/aaa93faf-4047-44
 
 This scene loads when the player loses by having their health reach 0. It gives the user the option to restart go back to the menu or exit the game. It also shows the current wave and score the player reached this round.
 
-ΕΙΚΟΝΑ
+![end](https://github.com/TwistedBatman/TopDownShooter/assets/73825176/f605bd0e-7206-4f41-8fb4-67939b38da3a)
+
 
 ## Main Scripts
 
