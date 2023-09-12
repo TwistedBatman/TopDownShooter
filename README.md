@@ -36,8 +36,7 @@ It's the first scene that loads when the application is launched. It contains bu
 **In-game store**
 
 By playing the user can gather coins, they can then spend those coins in the shop to buy skins.
-
-ΕΙΚΟΝΑ
+![shop](https://github.com/TwistedBatman/TopDownShooter/assets/73825176/1518fbb9-b507-48ca-a09f-9634b6e031b1)
 
 **Settings Menu**
 
